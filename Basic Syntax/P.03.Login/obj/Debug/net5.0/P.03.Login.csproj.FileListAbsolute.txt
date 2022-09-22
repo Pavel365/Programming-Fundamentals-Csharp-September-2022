@@ -1,0 +1,32 @@
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.exe
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.deps.json
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.runtimeconfig.json
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.runtimeconfig.dev.json
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.dll
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.pdb
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.csproj.AssemblyReference.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.AssemblyInfoInputs.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.AssemblyInfo.cs
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.csproj.CoreCompileInputs.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.dll
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\refint\P.03.Login.dll
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.pdb
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.genruntimeconfig.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\ref\P.03.Login.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\bin\Debug\net5.0\P.03.Login.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\refint\P.03.Login.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\P.03.Login.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.03.Login\obj\Debug\net5.0\ref\P.03.Login.dll

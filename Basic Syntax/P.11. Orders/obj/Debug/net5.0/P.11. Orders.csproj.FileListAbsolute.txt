@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\bin\Debug\net5.0\P.11. Orders.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\bin\Debug\net5.0\P.11. Orders.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\bin\Debug\net5.0\P.11. Orders.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\bin\Debug\net5.0\P.11. Orders.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\bin\Debug\net5.0\P.11. Orders.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\bin\Debug\net5.0\P.11. Orders.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\obj\Debug\net5.0\P.11. Orders.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\obj\Debug\net5.0\P.11. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\obj\Debug\net5.0\P.11. Orders.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\obj\Debug\net5.0\P.11. Orders.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\obj\Debug\net5.0\P.11. Orders.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\obj\Debug\net5.0\P.11. Orders.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\obj\Debug\net5.0\refint\P.11. Orders.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\obj\Debug\net5.0\P.11. Orders.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\obj\Debug\net5.0\P.11. Orders.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.11. Orders\obj\Debug\net5.0\ref\P.11. Orders.dll

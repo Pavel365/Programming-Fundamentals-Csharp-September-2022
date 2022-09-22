@@ -1,0 +1,32 @@
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.csproj.AssemblyReference.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.AssemblyInfoInputs.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.AssemblyInfo.cs
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.csproj.CoreCompileInputs.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.exe
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.deps.json
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.runtimeconfig.json
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.runtimeconfig.dev.json
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.dll
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.pdb
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.dll
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\refint\P.10. Rage Expense.dll
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.pdb
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.genruntimeconfig.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\ref\P.10. Rage Expense.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\bin\Debug\net5.0\P.10. Rage Expense.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\refint\P.10. Rage Expense.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\P.10. Rage Expense.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.10. Rage Expense\obj\Debug\net5.0\ref\P.10. Rage Expense.dll

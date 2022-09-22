@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P.16. Messages/1.0.0": {
+        "runtime": {
+          "P.16. Messages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P.16. Messages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P.04. Print and sum/1.0.0": {
+        "runtime": {
+          "P.04. Print and sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P.04. Print and sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

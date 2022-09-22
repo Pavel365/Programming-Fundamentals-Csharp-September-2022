@@ -1,0 +1,32 @@
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.exe
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.deps.json
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.runtimeconfig.json
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.runtimeconfig.dev.json
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.dll
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.pdb
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.csproj.AssemblyReference.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.AssemblyInfoInputs.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.AssemblyInfo.cs
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.csproj.CoreCompileInputs.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.dll
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\refint\P.06. Strong Number.dll
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.pdb
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.genruntimeconfig.cache
+D:\Users\Documents\Програмиране\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\ref\P.06. Strong Number.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\bin\Debug\net5.0\P.06. Strong Number.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\refint\P.06. Strong Number.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\P.06. Strong Number.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.06. Strong Number\obj\Debug\net5.0\ref\P.06. Strong Number.dll

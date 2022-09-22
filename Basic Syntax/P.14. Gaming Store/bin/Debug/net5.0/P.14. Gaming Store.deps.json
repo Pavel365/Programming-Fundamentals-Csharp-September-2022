@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P.14. Gaming Store/1.0.0": {
+        "runtime": {
+          "P.14. Gaming Store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P.14. Gaming Store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

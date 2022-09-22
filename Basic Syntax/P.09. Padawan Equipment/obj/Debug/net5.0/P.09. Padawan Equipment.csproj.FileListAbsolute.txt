@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\bin\Debug\net5.0\P.09. Padawan Equipment.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\bin\Debug\net5.0\P.09. Padawan Equipment.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\bin\Debug\net5.0\P.09. Padawan Equipment.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\bin\Debug\net5.0\P.09. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\bin\Debug\net5.0\P.09. Padawan Equipment.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\bin\Debug\net5.0\P.09. Padawan Equipment.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\obj\Debug\net5.0\P.09. Padawan Equipment.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\obj\Debug\net5.0\P.09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\obj\Debug\net5.0\P.09. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\obj\Debug\net5.0\P.09. Padawan Equipment.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\obj\Debug\net5.0\P.09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\obj\Debug\net5.0\P.09. Padawan Equipment.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\obj\Debug\net5.0\refint\P.09. Padawan Equipment.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\obj\Debug\net5.0\P.09. Padawan Equipment.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\obj\Debug\net5.0\P.09. Padawan Equipment.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.09. Padawan Equipment\obj\Debug\net5.0\ref\P.09. Padawan Equipment.dll

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\bin\Debug\net5.0\P.04. Print and sum.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\bin\Debug\net5.0\P.04. Print and sum.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\bin\Debug\net5.0\P.04. Print and sum.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\bin\Debug\net5.0\P.04. Print and sum.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\bin\Debug\net5.0\P.04. Print and sum.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\bin\Debug\net5.0\P.04. Print and sum.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\obj\Debug\net5.0\P.04. Print and sum.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\obj\Debug\net5.0\P.04. Print and sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\obj\Debug\net5.0\P.04. Print and sum.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\obj\Debug\net5.0\P.04. Print and sum.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\obj\Debug\net5.0\P.04. Print and sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\obj\Debug\net5.0\P.04. Print and sum.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\obj\Debug\net5.0\refint\P.04. Print and sum.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\obj\Debug\net5.0\P.04. Print and sum.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\obj\Debug\net5.0\P.04. Print and sum.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Basic-Exercise\P.04. Print and sum\obj\Debug\net5.0\ref\P.04. Print and sum.dll
