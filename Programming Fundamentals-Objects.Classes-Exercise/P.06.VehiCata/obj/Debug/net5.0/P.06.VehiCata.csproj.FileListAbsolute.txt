@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\bin\Debug\net5.0\P.06.VehiCata.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\bin\Debug\net5.0\P.06.VehiCata.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\bin\Debug\net5.0\P.06.VehiCata.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\bin\Debug\net5.0\P.06.VehiCata.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\bin\Debug\net5.0\P.06.VehiCata.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\bin\Debug\net5.0\P.06.VehiCata.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\obj\Debug\net5.0\P.06.VehiCata.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\obj\Debug\net5.0\P.06.VehiCata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\obj\Debug\net5.0\P.06.VehiCata.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\obj\Debug\net5.0\P.06.VehiCata.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\obj\Debug\net5.0\P.06.VehiCata.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\obj\Debug\net5.0\P.06.VehiCata.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\obj\Debug\net5.0\refint\P.06.VehiCata.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\obj\Debug\net5.0\P.06.VehiCata.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\obj\Debug\net5.0\P.06.VehiCata.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.06.VehiCata\obj\Debug\net5.0\ref\P.06.VehiCata.dll

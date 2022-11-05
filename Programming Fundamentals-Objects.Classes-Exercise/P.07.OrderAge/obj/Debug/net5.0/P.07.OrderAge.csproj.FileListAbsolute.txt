@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\bin\Debug\net5.0\P.07.OrderAge.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\bin\Debug\net5.0\P.07.OrderAge.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\bin\Debug\net5.0\P.07.OrderAge.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\bin\Debug\net5.0\P.07.OrderAge.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\bin\Debug\net5.0\P.07.OrderAge.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\bin\Debug\net5.0\P.07.OrderAge.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\obj\Debug\net5.0\P.07.OrderAge.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\obj\Debug\net5.0\P.07.OrderAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\obj\Debug\net5.0\P.07.OrderAge.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\obj\Debug\net5.0\P.07.OrderAge.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\obj\Debug\net5.0\P.07.OrderAge.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\obj\Debug\net5.0\P.07.OrderAge.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\obj\Debug\net5.0\refint\P.07.OrderAge.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\obj\Debug\net5.0\P.07.OrderAge.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\obj\Debug\net5.0\P.07.OrderAge.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.07.OrderAge\obj\Debug\net5.0\ref\P.07.OrderAge.dll

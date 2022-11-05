@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\bin\Debug\net5.0\P.02.Articles.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\bin\Debug\net5.0\P.02.Articles.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\bin\Debug\net5.0\P.02.Articles.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\bin\Debug\net5.0\P.02.Articles.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\bin\Debug\net5.0\P.02.Articles.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\bin\Debug\net5.0\P.02.Articles.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\obj\Debug\net5.0\P.02.Articles.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\obj\Debug\net5.0\P.02.Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\obj\Debug\net5.0\P.02.Articles.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\obj\Debug\net5.0\P.02.Articles.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\obj\Debug\net5.0\P.02.Articles.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\obj\Debug\net5.0\P.02.Articles.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\obj\Debug\net5.0\refint\P.02.Articles.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\obj\Debug\net5.0\P.02.Articles.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\obj\Debug\net5.0\P.02.Articles.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.02.Articles\obj\Debug\net5.0\ref\P.02.Articles.dll

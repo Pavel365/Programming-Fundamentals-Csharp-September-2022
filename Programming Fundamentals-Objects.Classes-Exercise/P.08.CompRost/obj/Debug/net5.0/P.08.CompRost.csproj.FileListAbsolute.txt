@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\bin\Debug\net5.0\P.08.CompRost.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\bin\Debug\net5.0\P.08.CompRost.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\bin\Debug\net5.0\P.08.CompRost.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\bin\Debug\net5.0\P.08.CompRost.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\bin\Debug\net5.0\P.08.CompRost.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\bin\Debug\net5.0\P.08.CompRost.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\obj\Debug\net5.0\P.08.CompRost.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\obj\Debug\net5.0\P.08.CompRost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\obj\Debug\net5.0\P.08.CompRost.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\obj\Debug\net5.0\P.08.CompRost.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\obj\Debug\net5.0\P.08.CompRost.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\obj\Debug\net5.0\P.08.CompRost.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\obj\Debug\net5.0\refint\P.08.CompRost.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\obj\Debug\net5.0\P.08.CompRost.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\obj\Debug\net5.0\P.08.CompRost.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Objects.Classes-Exercise\P.08.CompRost\obj\Debug\net5.0\ref\P.08.CompRost.dll
