@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\bin\Debug\net5.0\P.02..exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\bin\Debug\net5.0\P.02..deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\bin\Debug\net5.0\P.02..runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\bin\Debug\net5.0\P.02..runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\bin\Debug\net5.0\P.02..dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\bin\Debug\net5.0\P.02..pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\obj\Debug\net5.0\P.02..csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\obj\Debug\net5.0\P.02..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\obj\Debug\net5.0\P.02..AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\obj\Debug\net5.0\P.02..AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\obj\Debug\net5.0\P.02..csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\obj\Debug\net5.0\P.02..dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\obj\Debug\net5.0\refint\P.02..dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\obj\Debug\net5.0\P.02..pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\obj\Debug\net5.0\P.02..genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Regular-MId-Preparation-Exam\P.02\obj\Debug\net5.0\ref\P.02..dll
