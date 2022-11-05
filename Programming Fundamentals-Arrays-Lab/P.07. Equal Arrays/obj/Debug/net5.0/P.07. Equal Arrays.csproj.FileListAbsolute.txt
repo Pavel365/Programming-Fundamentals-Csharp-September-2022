@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\bin\Debug\net5.0\P.07. Equal Arrays.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\bin\Debug\net5.0\P.07. Equal Arrays.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\bin\Debug\net5.0\P.07. Equal Arrays.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\bin\Debug\net5.0\P.07. Equal Arrays.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\bin\Debug\net5.0\P.07. Equal Arrays.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\bin\Debug\net5.0\P.07. Equal Arrays.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\obj\Debug\net5.0\P.07. Equal Arrays.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\obj\Debug\net5.0\P.07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\obj\Debug\net5.0\P.07. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\obj\Debug\net5.0\P.07. Equal Arrays.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\obj\Debug\net5.0\P.07. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\obj\Debug\net5.0\P.07. Equal Arrays.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\obj\Debug\net5.0\refint\P.07. Equal Arrays.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\obj\Debug\net5.0\P.07. Equal Arrays.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\obj\Debug\net5.0\P.07. Equal Arrays.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.07. Equal Arrays\obj\Debug\net5.0\ref\P.07. Equal Arrays.dll

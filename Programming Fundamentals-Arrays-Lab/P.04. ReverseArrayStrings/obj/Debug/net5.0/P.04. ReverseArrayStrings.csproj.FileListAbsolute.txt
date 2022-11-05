@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\bin\Debug\net5.0\P.04. ReverseArrayStrings.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\bin\Debug\net5.0\P.04. ReverseArrayStrings.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\bin\Debug\net5.0\P.04. ReverseArrayStrings.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\bin\Debug\net5.0\P.04. ReverseArrayStrings.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\bin\Debug\net5.0\P.04. ReverseArrayStrings.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\bin\Debug\net5.0\P.04. ReverseArrayStrings.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\obj\Debug\net5.0\P.04. ReverseArrayStrings.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\obj\Debug\net5.0\P.04. ReverseArrayStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\obj\Debug\net5.0\P.04. ReverseArrayStrings.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\obj\Debug\net5.0\P.04. ReverseArrayStrings.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\obj\Debug\net5.0\P.04. ReverseArrayStrings.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\obj\Debug\net5.0\P.04. ReverseArrayStrings.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\obj\Debug\net5.0\refint\P.04. ReverseArrayStrings.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\obj\Debug\net5.0\P.04. ReverseArrayStrings.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\obj\Debug\net5.0\P.04. ReverseArrayStrings.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.04. ReverseArrayStrings\obj\Debug\net5.0\ref\P.04. ReverseArrayStrings.dll

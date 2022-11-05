@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\bin\Debug\net5.0\P.06. EvenOdd Subtraction.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\bin\Debug\net5.0\P.06. EvenOdd Subtraction.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\bin\Debug\net5.0\P.06. EvenOdd Subtraction.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\bin\Debug\net5.0\P.06. EvenOdd Subtraction.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\bin\Debug\net5.0\P.06. EvenOdd Subtraction.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\bin\Debug\net5.0\P.06. EvenOdd Subtraction.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\obj\Debug\net5.0\P.06. EvenOdd Subtraction.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\obj\Debug\net5.0\P.06. EvenOdd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\obj\Debug\net5.0\P.06. EvenOdd Subtraction.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\obj\Debug\net5.0\P.06. EvenOdd Subtraction.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\obj\Debug\net5.0\P.06. EvenOdd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\obj\Debug\net5.0\P.06. EvenOdd Subtraction.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\obj\Debug\net5.0\refint\P.06. EvenOdd Subtraction.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\obj\Debug\net5.0\P.06. EvenOdd Subtraction.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\obj\Debug\net5.0\P.06. EvenOdd Subtraction.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.06. EvenOdd Subtraction\obj\Debug\net5.0\ref\P.06. EvenOdd Subtraction.dll

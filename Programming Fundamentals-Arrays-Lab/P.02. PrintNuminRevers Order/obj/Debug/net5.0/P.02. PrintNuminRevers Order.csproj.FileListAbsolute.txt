@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\bin\Debug\net5.0\P.02. PrintNuminRevers Order.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\bin\Debug\net5.0\P.02. PrintNuminRevers Order.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\bin\Debug\net5.0\P.02. PrintNuminRevers Order.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\bin\Debug\net5.0\P.02. PrintNuminRevers Order.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\bin\Debug\net5.0\P.02. PrintNuminRevers Order.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\bin\Debug\net5.0\P.02. PrintNuminRevers Order.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\obj\Debug\net5.0\P.02. PrintNuminRevers Order.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\obj\Debug\net5.0\P.02. PrintNuminRevers Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\obj\Debug\net5.0\P.02. PrintNuminRevers Order.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\obj\Debug\net5.0\P.02. PrintNuminRevers Order.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\obj\Debug\net5.0\P.02. PrintNuminRevers Order.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\obj\Debug\net5.0\P.02. PrintNuminRevers Order.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\obj\Debug\net5.0\refint\P.02. PrintNuminRevers Order.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\obj\Debug\net5.0\P.02. PrintNuminRevers Order.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\obj\Debug\net5.0\P.02. PrintNuminRevers Order.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.02. PrintNuminRevers Order\obj\Debug\net5.0\ref\P.02. PrintNuminRevers Order.dll

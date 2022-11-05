@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\bin\Debug\net5.0\P.08.  Condense Array to Number.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\bin\Debug\net5.0\P.08.  Condense Array to Number.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\bin\Debug\net5.0\P.08.  Condense Array to Number.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\bin\Debug\net5.0\P.08.  Condense Array to Number.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\bin\Debug\net5.0\P.08.  Condense Array to Number.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\bin\Debug\net5.0\P.08.  Condense Array to Number.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\obj\Debug\net5.0\P.08.  Condense Array to Number.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\obj\Debug\net5.0\P.08.  Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\obj\Debug\net5.0\P.08.  Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\obj\Debug\net5.0\P.08.  Condense Array to Number.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\obj\Debug\net5.0\P.08.  Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\obj\Debug\net5.0\P.08.  Condense Array to Number.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\obj\Debug\net5.0\refint\P.08.  Condense Array to Number.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\obj\Debug\net5.0\P.08.  Condense Array to Number.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\obj\Debug\net5.0\P.08.  Condense Array to Number.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Lab\P.08.  Condense Array to Number\obj\Debug\net5.0\ref\P.08.  Condense Array to Number.dll
