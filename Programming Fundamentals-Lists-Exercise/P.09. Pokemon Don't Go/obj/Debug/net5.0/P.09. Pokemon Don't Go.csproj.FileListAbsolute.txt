@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\obj\Debug\net5.0\P.09. Pokemon Don't Go.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\obj\Debug\net5.0\P.09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\obj\Debug\net5.0\P.09. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\obj\Debug\net5.0\P.09. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\obj\Debug\net5.0\P.09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\bin\Debug\net5.0\P.09. Pokemon Don't Go.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\bin\Debug\net5.0\P.09. Pokemon Don't Go.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\bin\Debug\net5.0\P.09. Pokemon Don't Go.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\bin\Debug\net5.0\P.09. Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\bin\Debug\net5.0\P.09. Pokemon Don't Go.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\bin\Debug\net5.0\P.09. Pokemon Don't Go.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\obj\Debug\net5.0\P.09. Pokemon Don't Go.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\obj\Debug\net5.0\refint\P.09. Pokemon Don't Go.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\obj\Debug\net5.0\P.09. Pokemon Don't Go.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\obj\Debug\net5.0\P.09. Pokemon Don't Go.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.09. Pokemon Don't Go\obj\Debug\net5.0\ref\P.09. Pokemon Don't Go.dll

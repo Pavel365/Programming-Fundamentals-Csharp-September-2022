@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\bin\Debug\net5.0\P.12. Car Race.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\bin\Debug\net5.0\P.12. Car Race.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\bin\Debug\net5.0\P.12. Car Race.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\bin\Debug\net5.0\P.12. Car Race.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\bin\Debug\net5.0\P.12. Car Race.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\bin\Debug\net5.0\P.12. Car Race.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\obj\Debug\net5.0\P.12. Car Race.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\obj\Debug\net5.0\P.12. Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\obj\Debug\net5.0\P.12. Car Race.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\obj\Debug\net5.0\P.12. Car Race.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\obj\Debug\net5.0\P.12. Car Race.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\obj\Debug\net5.0\P.12. Car Race.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\obj\Debug\net5.0\refint\P.12. Car Race.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\obj\Debug\net5.0\P.12. Car Race.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\obj\Debug\net5.0\P.12. Car Race.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.12. Car Race\obj\Debug\net5.0\ref\P.12. Car Race.dll

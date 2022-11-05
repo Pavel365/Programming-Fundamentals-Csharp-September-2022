@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\bin\Debug\net5.0\P.08. Anonymous Threat.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\bin\Debug\net5.0\P.08. Anonymous Threat.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\bin\Debug\net5.0\P.08. Anonymous Threat.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\bin\Debug\net5.0\P.08. Anonymous Threat.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\bin\Debug\net5.0\P.08. Anonymous Threat.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\bin\Debug\net5.0\P.08. Anonymous Threat.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\obj\Debug\net5.0\P.08. Anonymous Threat.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\obj\Debug\net5.0\P.08. Anonymous Threat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\obj\Debug\net5.0\P.08. Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\obj\Debug\net5.0\P.08. Anonymous Threat.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\obj\Debug\net5.0\P.08. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\obj\Debug\net5.0\P.08. Anonymous Threat.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\obj\Debug\net5.0\refint\P.08. Anonymous Threat.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\obj\Debug\net5.0\P.08. Anonymous Threat.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\obj\Debug\net5.0\P.08. Anonymous Threat.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.08. Anonymous Threat\obj\Debug\net5.0\ref\P.08. Anonymous Threat.dll

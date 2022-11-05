@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\bin\Debug\net5.0\P.10. SoftUni Course Planning.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\bin\Debug\net5.0\P.10. SoftUni Course Planning.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\bin\Debug\net5.0\P.10. SoftUni Course Planning.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\bin\Debug\net5.0\P.10. SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\bin\Debug\net5.0\P.10. SoftUni Course Planning.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\bin\Debug\net5.0\P.10. SoftUni Course Planning.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\obj\Debug\net5.0\P.10. SoftUni Course Planning.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\obj\Debug\net5.0\P.10. SoftUni Course Planning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\obj\Debug\net5.0\P.10. SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\obj\Debug\net5.0\P.10. SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\obj\Debug\net5.0\P.10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\obj\Debug\net5.0\P.10. SoftUni Course Planning.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\obj\Debug\net5.0\refint\P.10. SoftUni Course Planning.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\obj\Debug\net5.0\P.10. SoftUni Course Planning.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\obj\Debug\net5.0\P.10. SoftUni Course Planning.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.10. SoftUni Course Planning\obj\Debug\net5.0\ref\P.10. SoftUni Course Planning.dll

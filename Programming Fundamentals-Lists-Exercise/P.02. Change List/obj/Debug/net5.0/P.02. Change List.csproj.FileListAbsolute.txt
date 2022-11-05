@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\bin\Debug\net5.0\P.02. Change List.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\bin\Debug\net5.0\P.02. Change List.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\bin\Debug\net5.0\P.02. Change List.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\bin\Debug\net5.0\P.02. Change List.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\bin\Debug\net5.0\P.02. Change List.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\bin\Debug\net5.0\P.02. Change List.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\obj\Debug\net5.0\P.02. Change List.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\obj\Debug\net5.0\P.02. Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\obj\Debug\net5.0\P.02. Change List.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\obj\Debug\net5.0\P.02. Change List.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\obj\Debug\net5.0\P.02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\obj\Debug\net5.0\P.02. Change List.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\obj\Debug\net5.0\refint\P.02. Change List.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\obj\Debug\net5.0\P.02. Change List.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\obj\Debug\net5.0\P.02. Change List.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.02. Change List\obj\Debug\net5.0\ref\P.02. Change List.dll

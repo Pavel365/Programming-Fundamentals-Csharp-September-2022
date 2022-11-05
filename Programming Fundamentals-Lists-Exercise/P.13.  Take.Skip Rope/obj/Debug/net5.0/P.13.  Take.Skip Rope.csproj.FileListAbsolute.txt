@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\bin\Debug\net5.0\P.13.  Take.Skip Rope.exe
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\bin\Debug\net5.0\P.13.  Take.Skip Rope.deps.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\bin\Debug\net5.0\P.13.  Take.Skip Rope.runtimeconfig.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\bin\Debug\net5.0\P.13.  Take.Skip Rope.runtimeconfig.dev.json
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\bin\Debug\net5.0\P.13.  Take.Skip Rope.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\bin\Debug\net5.0\P.13.  Take.Skip Rope.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\obj\Debug\net5.0\P.13.  Take.Skip Rope.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\obj\Debug\net5.0\P.13.  Take.Skip Rope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\obj\Debug\net5.0\P.13.  Take.Skip Rope.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\obj\Debug\net5.0\P.13.  Take.Skip Rope.AssemblyInfo.cs
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\obj\Debug\net5.0\P.13.  Take.Skip Rope.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\obj\Debug\net5.0\P.13.  Take.Skip Rope.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\obj\Debug\net5.0\refint\P.13.  Take.Skip Rope.dll
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\obj\Debug\net5.0\P.13.  Take.Skip Rope.pdb
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\obj\Debug\net5.0\P.13.  Take.Skip Rope.genruntimeconfig.cache
+C:\Users\PC\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Lists-Exercise\P.13.  Take.Skip Rope\obj\Debug\net5.0\ref\P.13.  Take.Skip Rope.dll
