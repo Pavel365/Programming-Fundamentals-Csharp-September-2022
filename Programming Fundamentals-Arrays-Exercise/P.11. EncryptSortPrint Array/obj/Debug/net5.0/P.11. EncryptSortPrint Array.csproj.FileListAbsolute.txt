@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\bin\Debug\net5.0\P.11. EncryptSortPrint Array.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\bin\Debug\net5.0\P.11. EncryptSortPrint Array.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\bin\Debug\net5.0\P.11. EncryptSortPrint Array.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\bin\Debug\net5.0\P.11. EncryptSortPrint Array.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\bin\Debug\net5.0\P.11. EncryptSortPrint Array.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\bin\Debug\net5.0\P.11. EncryptSortPrint Array.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\obj\Debug\net5.0\P.11. EncryptSortPrint Array.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\obj\Debug\net5.0\P.11. EncryptSortPrint Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\obj\Debug\net5.0\P.11. EncryptSortPrint Array.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\obj\Debug\net5.0\P.11. EncryptSortPrint Array.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\obj\Debug\net5.0\P.11. EncryptSortPrint Array.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\obj\Debug\net5.0\P.11. EncryptSortPrint Array.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\obj\Debug\net5.0\refint\P.11. EncryptSortPrint Array.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\obj\Debug\net5.0\P.11. EncryptSortPrint Array.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\obj\Debug\net5.0\P.11. EncryptSortPrint Array.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.11. EncryptSortPrint Array\obj\Debug\net5.0\ref\P.11. EncryptSortPrint Array.dll

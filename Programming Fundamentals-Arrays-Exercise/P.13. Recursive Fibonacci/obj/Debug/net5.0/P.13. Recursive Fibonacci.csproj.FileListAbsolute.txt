@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\bin\Debug\net5.0\P.13. Recursive Fibonacci.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\bin\Debug\net5.0\P.13. Recursive Fibonacci.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\bin\Debug\net5.0\P.13. Recursive Fibonacci.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\bin\Debug\net5.0\P.13. Recursive Fibonacci.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\bin\Debug\net5.0\P.13. Recursive Fibonacci.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\bin\Debug\net5.0\P.13. Recursive Fibonacci.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\obj\Debug\net5.0\P.13. Recursive Fibonacci.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\obj\Debug\net5.0\P.13. Recursive Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\obj\Debug\net5.0\P.13. Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\obj\Debug\net5.0\P.13. Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\obj\Debug\net5.0\P.13. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\obj\Debug\net5.0\P.13. Recursive Fibonacci.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\obj\Debug\net5.0\refint\P.13. Recursive Fibonacci.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\obj\Debug\net5.0\P.13. Recursive Fibonacci.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\obj\Debug\net5.0\P.13. Recursive Fibonacci.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.13. Recursive Fibonacci\obj\Debug\net5.0\ref\P.13. Recursive Fibonacci.dll

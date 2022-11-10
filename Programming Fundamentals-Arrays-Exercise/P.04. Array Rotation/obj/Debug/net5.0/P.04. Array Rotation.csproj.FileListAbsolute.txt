@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\bin\Debug\net5.0\P.04. Array Rotation.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\bin\Debug\net5.0\P.04. Array Rotation.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\bin\Debug\net5.0\P.04. Array Rotation.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\bin\Debug\net5.0\P.04. Array Rotation.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\bin\Debug\net5.0\P.04. Array Rotation.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\bin\Debug\net5.0\P.04. Array Rotation.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\obj\Debug\net5.0\P.04. Array Rotation.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\obj\Debug\net5.0\P.04. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\obj\Debug\net5.0\P.04. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\obj\Debug\net5.0\P.04. Array Rotation.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\obj\Debug\net5.0\P.04. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\obj\Debug\net5.0\P.04. Array Rotation.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\obj\Debug\net5.0\refint\P.04. Array Rotation.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\obj\Debug\net5.0\P.04. Array Rotation.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\obj\Debug\net5.0\P.04. Array Rotation.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\Programming Fundamentals-Arrays-Exercise\P.04. Array Rotation\obj\Debug\net5.0\ref\P.04. Array Rotation.dll
