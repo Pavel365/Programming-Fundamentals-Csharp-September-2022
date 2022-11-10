@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\bin\Debug\net5.0\P.01. Reverse Strings.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\bin\Debug\net5.0\P.01. Reverse Strings.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\bin\Debug\net5.0\P.01. Reverse Strings.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\bin\Debug\net5.0\P.01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\bin\Debug\net5.0\P.01. Reverse Strings.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\bin\Debug\net5.0\P.01. Reverse Strings.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\obj\Debug\net5.0\P.01. Reverse Strings.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\obj\Debug\net5.0\P.01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\obj\Debug\net5.0\P.01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\obj\Debug\net5.0\P.01. Reverse Strings.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\obj\Debug\net5.0\P.01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\obj\Debug\net5.0\P.01. Reverse Strings.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\obj\Debug\net5.0\refint\P.01. Reverse Strings.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\obj\Debug\net5.0\P.01. Reverse Strings.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\obj\Debug\net5.0\P.01. Reverse Strings.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.01. Reverse Strings\obj\Debug\net5.0\ref\P.01. Reverse Strings.dll

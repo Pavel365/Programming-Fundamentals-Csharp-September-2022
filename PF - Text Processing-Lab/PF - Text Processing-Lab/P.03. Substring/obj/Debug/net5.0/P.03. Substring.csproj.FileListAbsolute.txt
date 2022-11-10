@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\bin\Debug\net5.0\P.03. Substring.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\bin\Debug\net5.0\P.03. Substring.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\bin\Debug\net5.0\P.03. Substring.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\bin\Debug\net5.0\P.03. Substring.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\bin\Debug\net5.0\P.03. Substring.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\bin\Debug\net5.0\P.03. Substring.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\obj\Debug\net5.0\P.03. Substring.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\obj\Debug\net5.0\P.03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\obj\Debug\net5.0\P.03. Substring.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\obj\Debug\net5.0\P.03. Substring.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\obj\Debug\net5.0\P.03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\obj\Debug\net5.0\P.03. Substring.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\obj\Debug\net5.0\refint\P.03. Substring.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\obj\Debug\net5.0\P.03. Substring.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\obj\Debug\net5.0\P.03. Substring.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Lab\P.03. Substring\obj\Debug\net5.0\ref\P.03. Substring.dll
