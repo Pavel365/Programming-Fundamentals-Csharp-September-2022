@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\bin\Debug\net5.0\P.06. ReplRepChars.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\bin\Debug\net5.0\P.06. ReplRepChars.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\bin\Debug\net5.0\P.06. ReplRepChars.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\bin\Debug\net5.0\P.06. ReplRepChars.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\bin\Debug\net5.0\P.06. ReplRepChars.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\bin\Debug\net5.0\P.06. ReplRepChars.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\obj\Debug\net5.0\P.06. ReplRepChars.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\obj\Debug\net5.0\P.06. ReplRepChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\obj\Debug\net5.0\P.06. ReplRepChars.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\obj\Debug\net5.0\P.06. ReplRepChars.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\obj\Debug\net5.0\P.06. ReplRepChars.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\obj\Debug\net5.0\P.06. ReplRepChars.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\obj\Debug\net5.0\refint\P.06. ReplRepChars.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\obj\Debug\net5.0\P.06. ReplRepChars.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\obj\Debug\net5.0\P.06. ReplRepChars.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.06. ReplRepChars\obj\Debug\net5.0\ref\P.06. ReplRepChars.dll

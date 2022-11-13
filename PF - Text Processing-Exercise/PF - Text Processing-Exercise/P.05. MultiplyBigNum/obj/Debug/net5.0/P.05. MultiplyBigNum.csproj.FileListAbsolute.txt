@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\bin\Debug\net5.0\P.05. MultiplyBigNum.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\bin\Debug\net5.0\P.05. MultiplyBigNum.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\bin\Debug\net5.0\P.05. MultiplyBigNum.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\bin\Debug\net5.0\P.05. MultiplyBigNum.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\bin\Debug\net5.0\P.05. MultiplyBigNum.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\bin\Debug\net5.0\P.05. MultiplyBigNum.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\obj\Debug\net5.0\P.05. MultiplyBigNum.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\obj\Debug\net5.0\P.05. MultiplyBigNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\obj\Debug\net5.0\P.05. MultiplyBigNum.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\obj\Debug\net5.0\P.05. MultiplyBigNum.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\obj\Debug\net5.0\P.05. MultiplyBigNum.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\obj\Debug\net5.0\P.05. MultiplyBigNum.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\obj\Debug\net5.0\refint\P.05. MultiplyBigNum.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\obj\Debug\net5.0\P.05. MultiplyBigNum.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\obj\Debug\net5.0\P.05. MultiplyBigNum.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.05. MultiplyBigNum\obj\Debug\net5.0\ref\P.05. MultiplyBigNum.dll

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\bin\Debug\net5.0\P.12. MorseCodeTrans.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\bin\Debug\net5.0\P.12. MorseCodeTrans.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\bin\Debug\net5.0\P.12. MorseCodeTrans.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\bin\Debug\net5.0\P.12. MorseCodeTrans.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\bin\Debug\net5.0\P.12. MorseCodeTrans.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\bin\Debug\net5.0\P.12. MorseCodeTrans.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\obj\Debug\net5.0\P.12. MorseCodeTrans.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\obj\Debug\net5.0\P.12. MorseCodeTrans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\obj\Debug\net5.0\P.12. MorseCodeTrans.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\obj\Debug\net5.0\P.12. MorseCodeTrans.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\obj\Debug\net5.0\P.12. MorseCodeTrans.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\obj\Debug\net5.0\P.12. MorseCodeTrans.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\obj\Debug\net5.0\refint\P.12. MorseCodeTrans.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\obj\Debug\net5.0\P.12. MorseCodeTrans.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\obj\Debug\net5.0\P.12. MorseCodeTrans.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.12. MorseCodeTrans\obj\Debug\net5.0\ref\P.12. MorseCodeTrans.dll

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\bin\Debug\net5.0\P.09. ExtrPersInfo.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\bin\Debug\net5.0\P.09. ExtrPersInfo.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\bin\Debug\net5.0\P.09. ExtrPersInfo.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\bin\Debug\net5.0\P.09. ExtrPersInfo.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\bin\Debug\net5.0\P.09. ExtrPersInfo.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\bin\Debug\net5.0\P.09. ExtrPersInfo.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\obj\Debug\net5.0\P.09. ExtrPersInfo.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\obj\Debug\net5.0\P.09. ExtrPersInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\obj\Debug\net5.0\P.09. ExtrPersInfo.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\obj\Debug\net5.0\P.09. ExtrPersInfo.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\obj\Debug\net5.0\P.09. ExtrPersInfo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\obj\Debug\net5.0\P.09. ExtrPersInfo.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\obj\Debug\net5.0\refint\P.09. ExtrPersInfo.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\obj\Debug\net5.0\P.09. ExtrPersInfo.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\obj\Debug\net5.0\P.09. ExtrPersInfo.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.09. ExtrPersInfo\obj\Debug\net5.0\ref\P.09. ExtrPersInfo.dll

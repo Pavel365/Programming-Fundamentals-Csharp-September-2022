@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\bin\Debug\net5.0\P.01. Valid Usernames.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\bin\Debug\net5.0\P.01. Valid Usernames.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\bin\Debug\net5.0\P.01. Valid Usernames.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\bin\Debug\net5.0\P.01. Valid Usernames.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\bin\Debug\net5.0\P.01. Valid Usernames.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\bin\Debug\net5.0\P.01. Valid Usernames.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\obj\Debug\net5.0\P.01. Valid Usernames.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\obj\Debug\net5.0\P.01. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\obj\Debug\net5.0\P.01. Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\obj\Debug\net5.0\P.01. Valid Usernames.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\obj\Debug\net5.0\P.01. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\obj\Debug\net5.0\P.01. Valid Usernames.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\obj\Debug\net5.0\refint\P.01. Valid Usernames.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\obj\Debug\net5.0\P.01. Valid Usernames.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\obj\Debug\net5.0\P.01. Valid Usernames.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.01. Valid Usernames\obj\Debug\net5.0\ref\P.01. Valid Usernames.dll

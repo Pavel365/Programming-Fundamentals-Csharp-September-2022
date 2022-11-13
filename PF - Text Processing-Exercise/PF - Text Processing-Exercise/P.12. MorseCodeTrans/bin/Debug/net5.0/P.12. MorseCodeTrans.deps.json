@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P.12. MorseCodeTrans/1.0.0": {
+        "runtime": {
+          "P.12. MorseCodeTrans.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P.12. MorseCodeTrans/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

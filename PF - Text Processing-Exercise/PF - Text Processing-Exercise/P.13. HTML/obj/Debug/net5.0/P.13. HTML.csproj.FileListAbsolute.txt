@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\bin\Debug\net5.0\P.13. HTML.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\bin\Debug\net5.0\P.13. HTML.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\bin\Debug\net5.0\P.13. HTML.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\bin\Debug\net5.0\P.13. HTML.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\bin\Debug\net5.0\P.13. HTML.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\bin\Debug\net5.0\P.13. HTML.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\obj\Debug\net5.0\P.13. HTML.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\obj\Debug\net5.0\P.13. HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\obj\Debug\net5.0\P.13. HTML.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\obj\Debug\net5.0\P.13. HTML.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\obj\Debug\net5.0\P.13. HTML.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\obj\Debug\net5.0\P.13. HTML.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\obj\Debug\net5.0\refint\P.13. HTML.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\obj\Debug\net5.0\P.13. HTML.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\obj\Debug\net5.0\P.13. HTML.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.13. HTML\obj\Debug\net5.0\ref\P.13. HTML.dll

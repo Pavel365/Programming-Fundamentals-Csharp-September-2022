@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\bin\Debug\net5.0\P.02. Char Multiply.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\bin\Debug\net5.0\P.02. Char Multiply.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\bin\Debug\net5.0\P.02. Char Multiply.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\bin\Debug\net5.0\P.02. Char Multiply.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\bin\Debug\net5.0\P.02. Char Multiply.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\bin\Debug\net5.0\P.02. Char Multiply.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\obj\Debug\net5.0\P.02. Char Multiply.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\obj\Debug\net5.0\P.02. Char Multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\obj\Debug\net5.0\P.02. Char Multiply.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\obj\Debug\net5.0\P.02. Char Multiply.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\obj\Debug\net5.0\P.02. Char Multiply.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\obj\Debug\net5.0\P.02. Char Multiply.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\obj\Debug\net5.0\refint\P.02. Char Multiply.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\obj\Debug\net5.0\P.02. Char Multiply.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\obj\Debug\net5.0\P.02. Char Multiply.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Text Processing-Exercise\P.02. Char Multiply\obj\Debug\net5.0\ref\P.02. Char Multiply.dll
