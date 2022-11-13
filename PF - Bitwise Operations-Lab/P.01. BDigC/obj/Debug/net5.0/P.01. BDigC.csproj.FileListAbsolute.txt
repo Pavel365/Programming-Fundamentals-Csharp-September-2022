@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\bin\Debug\net5.0\P.01. BDigC.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\bin\Debug\net5.0\P.01. BDigC.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\bin\Debug\net5.0\P.01. BDigC.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\bin\Debug\net5.0\P.01. BDigC.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\bin\Debug\net5.0\P.01. BDigC.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\bin\Debug\net5.0\P.01. BDigC.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\obj\Debug\net5.0\P.01. BDigC.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\obj\Debug\net5.0\P.01. BDigC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\obj\Debug\net5.0\P.01. BDigC.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\obj\Debug\net5.0\P.01. BDigC.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\obj\Debug\net5.0\P.01. BDigC.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\obj\Debug\net5.0\P.01. BDigC.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\obj\Debug\net5.0\refint\P.01. BDigC.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\obj\Debug\net5.0\P.01. BDigC.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\obj\Debug\net5.0\P.01. BDigC.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.01. BDigC\obj\Debug\net5.0\ref\P.01. BDigC.dll

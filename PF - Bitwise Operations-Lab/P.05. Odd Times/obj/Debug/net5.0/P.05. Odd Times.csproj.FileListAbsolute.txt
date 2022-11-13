@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\bin\Debug\net5.0\P.05. Odd Times.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\bin\Debug\net5.0\P.05. Odd Times.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\bin\Debug\net5.0\P.05. Odd Times.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\bin\Debug\net5.0\P.05. Odd Times.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\bin\Debug\net5.0\P.05. Odd Times.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\bin\Debug\net5.0\P.05. Odd Times.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\obj\Debug\net5.0\P.05. Odd Times.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\obj\Debug\net5.0\P.05. Odd Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\obj\Debug\net5.0\P.05. Odd Times.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\obj\Debug\net5.0\P.05. Odd Times.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\obj\Debug\net5.0\P.05. Odd Times.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\obj\Debug\net5.0\P.05. Odd Times.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\obj\Debug\net5.0\refint\P.05. Odd Times.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\obj\Debug\net5.0\P.05. Odd Times.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\obj\Debug\net5.0\P.05. Odd Times.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.05. Odd Times\obj\Debug\net5.0\ref\P.05. Odd Times.dll

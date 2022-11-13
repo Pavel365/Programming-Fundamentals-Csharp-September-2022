@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\bin\Debug\net5.0\P.06. Tri-bit Switch.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\bin\Debug\net5.0\P.06. Tri-bit Switch.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\bin\Debug\net5.0\P.06. Tri-bit Switch.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\bin\Debug\net5.0\P.06. Tri-bit Switch.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\bin\Debug\net5.0\P.06. Tri-bit Switch.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\bin\Debug\net5.0\P.06. Tri-bit Switch.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\obj\Debug\net5.0\P.06. Tri-bit Switch.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\obj\Debug\net5.0\P.06. Tri-bit Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\obj\Debug\net5.0\P.06. Tri-bit Switch.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\obj\Debug\net5.0\P.06. Tri-bit Switch.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\obj\Debug\net5.0\P.06. Tri-bit Switch.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\obj\Debug\net5.0\P.06. Tri-bit Switch.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\obj\Debug\net5.0\refint\P.06. Tri-bit Switch.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\obj\Debug\net5.0\P.06. Tri-bit Switch.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\obj\Debug\net5.0\P.06. Tri-bit Switch.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.06. Tri-bit Switch\obj\Debug\net5.0\ref\P.06. Tri-bit Switch.dll

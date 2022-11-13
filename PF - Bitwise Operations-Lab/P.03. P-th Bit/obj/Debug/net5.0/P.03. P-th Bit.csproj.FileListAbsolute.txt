@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\bin\Debug\net5.0\P.03. P-th Bit.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\bin\Debug\net5.0\P.03. P-th Bit.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\bin\Debug\net5.0\P.03. P-th Bit.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\bin\Debug\net5.0\P.03. P-th Bit.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\bin\Debug\net5.0\P.03. P-th Bit.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\bin\Debug\net5.0\P.03. P-th Bit.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\obj\Debug\net5.0\P.03. P-th Bit.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\obj\Debug\net5.0\P.03. P-th Bit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\obj\Debug\net5.0\P.03. P-th Bit.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\obj\Debug\net5.0\P.03. P-th Bit.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\obj\Debug\net5.0\P.03. P-th Bit.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\obj\Debug\net5.0\P.03. P-th Bit.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\obj\Debug\net5.0\refint\P.03. P-th Bit.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\obj\Debug\net5.0\P.03. P-th Bit.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\obj\Debug\net5.0\P.03. P-th Bit.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.03. P-th Bit\obj\Debug\net5.0\ref\P.03. P-th Bit.dll

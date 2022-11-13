@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\bin\Debug\net5.0\P.02. Bit at Position1.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\bin\Debug\net5.0\P.02. Bit at Position1.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\bin\Debug\net5.0\P.02. Bit at Position1.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\bin\Debug\net5.0\P.02. Bit at Position1.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\bin\Debug\net5.0\P.02. Bit at Position1.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\bin\Debug\net5.0\P.02. Bit at Position1.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\obj\Debug\net5.0\P.02. Bit at Position1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\obj\Debug\net5.0\P.02. Bit at Position1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\obj\Debug\net5.0\P.02. Bit at Position1.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\obj\Debug\net5.0\P.02. Bit at Position1.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\obj\Debug\net5.0\P.02. Bit at Position1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\obj\Debug\net5.0\P.02. Bit at Position1.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\obj\Debug\net5.0\refint\P.02. Bit at Position1.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\obj\Debug\net5.0\P.02. Bit at Position1.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\obj\Debug\net5.0\P.02. Bit at Position1.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.02. Bit at Position1\obj\Debug\net5.0\ref\P.02. Bit at Position1.dll

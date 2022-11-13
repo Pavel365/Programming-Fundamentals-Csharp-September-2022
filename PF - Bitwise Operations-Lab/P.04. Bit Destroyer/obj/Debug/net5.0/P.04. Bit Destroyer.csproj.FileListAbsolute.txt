@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\bin\Debug\net5.0\P.04. Bit Destroyer.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\bin\Debug\net5.0\P.04. Bit Destroyer.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\bin\Debug\net5.0\P.04. Bit Destroyer.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\bin\Debug\net5.0\P.04. Bit Destroyer.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\bin\Debug\net5.0\P.04. Bit Destroyer.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\bin\Debug\net5.0\P.04. Bit Destroyer.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\obj\Debug\net5.0\P.04. Bit Destroyer.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\obj\Debug\net5.0\P.04. Bit Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\obj\Debug\net5.0\P.04. Bit Destroyer.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\obj\Debug\net5.0\P.04. Bit Destroyer.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\obj\Debug\net5.0\P.04. Bit Destroyer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\obj\Debug\net5.0\P.04. Bit Destroyer.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\obj\Debug\net5.0\refint\P.04. Bit Destroyer.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\obj\Debug\net5.0\P.04. Bit Destroyer.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\obj\Debug\net5.0\P.04. Bit Destroyer.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Bitwise Operations-Lab\P.04. Bit Destroyer\obj\Debug\net5.0\ref\P.04. Bit Destroyer.dll
