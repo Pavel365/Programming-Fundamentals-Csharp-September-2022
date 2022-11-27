@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = P._04._Star_Enigma
+build_property.ProjectDir = C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Regular Expressions-Exercise\P.04. Star Enigma\

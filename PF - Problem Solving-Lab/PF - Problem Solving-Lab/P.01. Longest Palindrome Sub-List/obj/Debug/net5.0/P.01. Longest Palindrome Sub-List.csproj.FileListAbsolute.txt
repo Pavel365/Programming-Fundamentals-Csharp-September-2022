@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\bin\Debug\net5.0\P.01. Longest Palindrome Sub-List.exe
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\bin\Debug\net5.0\P.01. Longest Palindrome Sub-List.deps.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\bin\Debug\net5.0\P.01. Longest Palindrome Sub-List.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\bin\Debug\net5.0\P.01. Longest Palindrome Sub-List.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\bin\Debug\net5.0\P.01. Longest Palindrome Sub-List.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\bin\Debug\net5.0\P.01. Longest Palindrome Sub-List.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\obj\Debug\net5.0\P.01. Longest Palindrome Sub-List.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\obj\Debug\net5.0\P.01. Longest Palindrome Sub-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\obj\Debug\net5.0\P.01. Longest Palindrome Sub-List.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\obj\Debug\net5.0\P.01. Longest Palindrome Sub-List.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\obj\Debug\net5.0\P.01. Longest Palindrome Sub-List.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\obj\Debug\net5.0\P.01. Longest Palindrome Sub-List.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\obj\Debug\net5.0\refint\P.01. Longest Palindrome Sub-List.dll
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\obj\Debug\net5.0\P.01. Longest Palindrome Sub-List.pdb
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\obj\Debug\net5.0\P.01. Longest Palindrome Sub-List.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\Programming Fundamentals with C#\PF - Problem Solving-Lab\P.01. Longest Palindrome Sub-List\obj\Debug\net5.0\ref\P.01. Longest Palindrome Sub-List.dll
